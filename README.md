@@ -1,4 +1,5 @@
 # Top-bit sort
+オリジナル(のつもり)のソートアルゴリズムです。
 ## アルゴリズム
 ![top-bit sort](https://user-images.githubusercontent.com/68174393/130323664-4cd97708-b911-432b-90c6-bf7ed7c94f29.png)
 
